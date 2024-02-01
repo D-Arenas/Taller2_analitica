@@ -1,1 +1,1 @@
-# Reporte - Taller 2: Git
+# Reporte - Taller 2 (Git)
